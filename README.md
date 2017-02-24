@@ -17,13 +17,13 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 -
 
 ## Rotterdam
-- [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda
-- [NodeSchool](www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning NodeJS
+- [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
+- [NodeSchool](www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning NodeJS.
 
 ## Amsterdam
-- [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda
-- [Hackers & Founders](https://www.meetup.com/Hackers-and-Founders-Amsterdam-NL/) - Monthly meetup at Cafe De Doffer
-- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conf (May 18 & 19)
+- [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
+- [Hackers & Founders](https://www.meetup.com/Hackers-and-Founders-Amsterdam-NL/) - Monthly meetup at Cafe De Doffer.
+- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conf (May 18 & 19).
 
 ## Everywhere
-- [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development
+- [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
