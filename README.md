@@ -22,7 +22,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Rotterdam
 - [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
-- [NodeSchool](www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning Node.js.
+- [NodeSchool](http://www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning Node.js.
 
 ## Amsterdam
 - [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
