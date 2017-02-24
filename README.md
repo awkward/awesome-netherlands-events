@@ -1,13 +1,17 @@
 # Awesome Events [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome Dutch (tech related) events like: conferences, meetups and parties 🎉
+> A curated list of Awesome Events in 🇳🇱
+
+This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
 -
 
-Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawkward)
+Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawkward).
 
 ## Contents
 - [Rotterdam](#rotterdam)
@@ -18,7 +22,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Rotterdam
 - [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
-- [NodeSchool](www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning NodeJS.
+- [NodeSchool](www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning Node.js.
 
 ## Amsterdam
 - [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
