@@ -38,3 +38,4 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
+- [CoderDojo](https://coderdojo.nl) - Monthly workshops for kids (7-17) to learn to code
