@@ -21,5 +21,6 @@ Thank you for your suggestions!
 2. Click on the file you want to edit, for instance `README.md`: ![image](https://cloud.githubusercontent.com/assets/238946/23307189/f4e40f74-faa6-11e6-8977-e2111907647b.png)
 3. Than, click on the pencil icon above the file: ![image](https://cloud.githubusercontent.com/assets/238946/23307211/0a77849c-faa7-11e6-9fee-50b97edaf548.png)
 4. When you're done changing the file, scroll to the bottom, optionally add a description and hit `Commit changes`: ![image](https://cloud.githubusercontent.com/assets/238946/23307255/2a603ede-faa7-11e6-81f1-f62b45a3ad7b.png)
-5. Almost there! Now hit create a new Pull Request, change and/or add a description of what you've done... and wait until it gets merged. ![image](https://cloud.githubusercontent.com/assets/238946/23307323/57a53c96-faa7-11e6-9849-dc7226a6a88d.png)
+5. Almost there! Now hit create a new Pull Request: ![image](https://cloud.githubusercontent.com/assets/238946/23307323/57a53c96-faa7-11e6-9849-dc7226a6a88d.png)
+6. Change and/or add a description of what you've done... and create the PR: ![image](https://cloud.githubusercontent.com/assets/238946/23307421/c78bbdfa-faa7-11e6-8aa5-2522b74541e2.png)
 6. You'll get notified once it's merged, and receive ethernal gratitude ✌️
