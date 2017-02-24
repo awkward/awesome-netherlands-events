@@ -28,8 +28,11 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
 - [Hackers & Founders](https://www.meetup.com/Hackers-and-Founders-Amsterdam-NL/) - Monthly meetup at Cafe De Doffer.
 - [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conference (May 18 & 19).
-- [AMSxTech](http://amsxtech.com/) - Community driven conference (March 31).
+- [AMSxTech](http://amsxtech.com/) - Community driven conference (March 31) and monthly meetups.
 - [FunctionConf](https://functionconf.io/) - Conference about serverless architectures (June 15 & 16).
+- [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - Active Ruby meetup with frequent, large events
+- [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - Monthly Elixir meetups
+- [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
