@@ -27,7 +27,8 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 ## Amsterdam
 - [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
 - [Hackers & Founders](https://www.meetup.com/Hackers-and-Founders-Amsterdam-NL/) - Monthly meetup at Cafe De Doffer.
-- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conf (May 18 & 19).
+- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conference (May 18 & 19).
+- [AMSxTech](http://amsxtech.com/) - Community driven conference (March 31).
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
