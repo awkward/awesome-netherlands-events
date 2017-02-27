@@ -39,7 +39,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Utrecht
 - [The Kick 030](http://www.thekick030.nl/) - A two monthly event with talks about the creative industry.
-- [Creative Show-off](http://creativeshowoff.nl) Pitch your idea/business while drinking a beer.
+- [Creative Show-off](http://creativeshowoff.nl) - Pitch your idea/business while drinking a beer.
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
