@@ -37,7 +37,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
-- [The Kick](http://www.thekick030.nl/) - A two monthly event with talks about the creative industry.
+- [The Kick 030](http://www.thekick030.nl/) - A two monthly event with talks about the creative industry.
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
