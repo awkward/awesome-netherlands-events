@@ -16,6 +16,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 ## Contents
 - [Rotterdam](#rotterdam)
 - [Amsterdam](#amsterdam)
+- [Utrecht](#utrecht)
 - [Everywhere](#everywhere)
 
 -
@@ -36,6 +37,12 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust.
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
+## Utrecht
+- [The Kick 030](http://www.thekick030.nl) - A two monthly event with talks about the creative industry.
+- [Creative Show-off](http://creativeshowoff.nl) - Pitch your idea/business while drinking a beer.
+
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
 - [CoderDojo](https://coderdojo.nl) - Monthly workshops for kids (7-17) to learn to code
+- [Design by Fire Café](https://www.designbyfire.nl) - Conferences and Gatherings on Interaction Design.
+
