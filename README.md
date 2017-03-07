@@ -35,6 +35,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - Active Ruby meetup with frequent, large events.
 - [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - Monthly Elixir meetups.
 - [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust.
+- [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (April 21) on all things React.
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
