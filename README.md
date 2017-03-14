@@ -5,11 +5,10 @@
 This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
--
+---
 
 Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawkward).
 
@@ -19,7 +18,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Utrecht](#utrecht)
 - [Everywhere](#everywhere)
 
--
+---
 
 ## Rotterdam
 - [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
