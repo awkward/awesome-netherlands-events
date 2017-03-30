@@ -38,7 +38,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
-- [The Kick 030](http://www.thekick030.nl) - A two monthly event with talks about the creative industry.
+- [The Kick 030](http://www.thekick030.nl) - Two monthly event with talks about the creative industry.
 - [Creative Show-off](http://creativeshowoff.nl) - Pitch your idea/business while drinking a beer.
 
 ## Everywhere
